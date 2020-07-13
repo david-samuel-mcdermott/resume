@@ -5,8 +5,9 @@
 	"time": "May 2017 - May 2018",
 	"list": [
 		"Developed large scale data visualization platforms using Java and C",
-		"Optimized data processing pipelines for parallel execution on NUMA systems",
 		"Developed data ingest pipelines from Excel, SQL, and blockchain sources",
-		"Developed interactive visualization environments in VR (CAVEs)"
+		"Developed interactive visualization environments in VR (CAVEs)",
+		"Optimized data processing pipelines for parallel execution on NUMA systems",
+		"Responded to client bug reports &amp; feature requests"
 	]
 }

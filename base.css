@@ -4,13 +4,6 @@
 	margin: 0;
 }
 
-@media print {
-	html, body {
-		width: 8.5in;
-		height: 11in;
-	}
-}
-
 /*Aesthetic preferences*/
 * {
 	font-family: "Noto Sans", sans-serif;
@@ -131,13 +124,18 @@ a:visited {
 	margin-bottom: 5px;
 }
 
-.school ul{
-	display: block;
-	margin: 0 0 0 0;
+.school ul {
 	margin-top: 0;
 }
 
-.school li {
+.coursework{
+	display: block;
+	margin: 0 0 0 0;
+	margin-top: 0;
+	padding-left: 20px;
+}
+
+.coursework li {
 	display: inline;
 	font-size: 8pt;
 	padding-right: 5px;
@@ -145,7 +143,7 @@ a:visited {
 
 .school_degree {
 	font-weight: 600;
-	font-size: 12pt;
+	font-size: 10pt;
 }
 
 .school_name {

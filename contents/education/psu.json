@@ -3,5 +3,6 @@
 	"graduation": "May 2019",
 	"location": "",
 	"degree": "Computer Engineering (BS), Electrical Engineering (BS)",
-	"courses": [ "Computer Architecture", "Digital ICs", "Distributed Object Computing", "Computer Graphics", "Ferroelectric Materials", "Semiconductor IC Technology", "Numerical Computation", "Operating Systems" ]
+	"courses": [ "Computer Architecture", "Digital ICs", "Distributed Object Computing", "Computer Graphics", "Ferroelectric Materials", "Micromechatronics", "Semiconductor IC Technology", "Numerical Computation", "Operating Systems" ],
+	"activities": [ "Developed event management system for 1,500 person hackathon", "Developed genetic algorithm to optimize computer architectures", "Developed 4K 1GHz SRAM Cache in Virtuoso", "Performed original research on low cost semiconductor manufacturing", "Managed MATLAB cluster computer" ]
 }

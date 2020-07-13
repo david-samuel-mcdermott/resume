@@ -5,9 +5,9 @@
 	"time": "May 2018 - June 2019",
 	"list": [
 		"Worked on IBM Z Logic Built in Self Test (LBIST) characterization routines",
+		"Assisted in development of FPGA based tester platfrom with Linux drivers",
 		"Developed parallelized LBIST diagnostic routines to accelerate fault analysis",
 		"Developed machine learning methodologies for LBIST diagnostics",
-		"Assisted in development of FPGA based tester platfrom with Linux drivers",
 		"Developed interactive characterization dashboards for lab experiments",
 		"Developed EDA tools to identify areas for power optimization post-synthesis"
 	]
