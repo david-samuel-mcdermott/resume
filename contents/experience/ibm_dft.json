@@ -5,13 +5,13 @@
 	"time": "June 2019 - Present",
 	"list": [
 		"Lead test and characterization of limited run experimental processor design",
-		"Developed on-chip fault analysis rouintes to accelerate characterization",
+		"Developed on-chip fault analysis routines to accelerate characterization",
 		"Developed of microcontroller driven test routines for manufacturing",
 		"Developed highly parallelized test API for use in manufacturing",
 		"Identified yield optimization opportunities in next-generation processors",
 		"Identified system power increase and briefed executives on root cause",
 		"Architected cross product model for test and characterization development",
-		"Architected machine learning system for locic defect detection",
+		"Architected machine learning system for logic defect detection",
 		"Architected system for anomalous logic behavior detection to predict bugs",
 		"Architected on-chip vital product data format for next-generation"
 		]
