@@ -1,0 +1,9 @@
+{
+	"title":"Computer Engineer",
+	"contact":"general",
+	"skills":["programming", "assembly", "hdl", "scripting", "query", "tools", "knowledge"],
+	"summary":"generic",
+	"experience":["ibm_dft", "ibm_dft_intern", "arl_intern"],
+	"education":["psu"]
+	
+}

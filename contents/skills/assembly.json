@@ -1,0 +1,4 @@
+{
+	"name": "Assembly Languages",
+	"skills": [ "x86-64", "POWER ISA", "MIPS", "ARM (A32/Armv7)", "Motorola 68HC12" ]
+}
